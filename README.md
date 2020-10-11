@@ -36,7 +36,7 @@ Volt Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components,
 
 <br />
 
-![Volt Dashboard PRO - Premium Bootstrap 5 Admin Dashboard, animated presentation.](https://raw.githubusercontent.com/admin-dashboards/volt-bootstrap-5-dashboard-pro/main/media/volt-bootstrap-5-dashboard-pro-screen.png)
+![Volt Dashboard PRO - Premium Bootstrap 5 Admin Dashboard, animated presentation.](https://raw.githubusercontent.com/app-generator/flask-dashboard-volt-pro/main/media/flask-dashboard-volt-pro-screen.png)
 
 <br />
 
