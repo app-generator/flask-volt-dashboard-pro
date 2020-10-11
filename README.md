@@ -44,8 +44,8 @@ Volt Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components,
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/flask-dashboard-volt-pro.git
-$ cd flask-dashboard-volt-pro
+$ git clone https://github.com/app-generator/priv-flask-dashboard-volt-pro.git
+$ cd priv-flask-dashboard-volt-pro
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -211,8 +211,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/flask-dashboard-volt-pro.git
-$ cd flask-dashboard-volt-pro
+$ git clone https://github.com/app-generator/priv-flask-dashboard-volt-pro.git
+$ cd priv-flask-dashboard-volt-pro
 ```
 
 > Start the app in Docker
@@ -237,8 +237,8 @@ Steps to deploy on **Heroku**
 
 ```bash
 $ # Clone the source code:
-$ git clone https://github.com/app-generator/flask-dashboard-volt-pro.git
-$ cd flask-dashboard-volt-pro
+$ git clone https://github.com/app-generator/priv-flask-dashboard-volt-pro.git
+$ cd priv-flask-dashboard-volt-pro
 $
 $ # Check Heroku CLI is installed
 $ heroku -v
