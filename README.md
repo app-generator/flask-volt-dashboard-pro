@@ -1,6 +1,6 @@
 # [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - Volt Bootstrap 5 PRO
 
-Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **[Volt Dashboard PRO](https://docs.appseed.us/bootstrap-template/volt-dashboard-pro/)** (premium version), a modern Bootstrap dashboard design. Volt Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components, 20 example pages and 10 fully customized plugin written in Vanilla Javascript. 
+**Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **[Volt Dashboard PRO](https://docs.appseed.us/bootstrap-template/volt-dashboard-pro/)** (premium version), a modern Bootstrap dashboard design. Volt Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components, 20 example pages and 10 fully customized plugin written in Vanilla Javascript. 
 
 <br />
 
