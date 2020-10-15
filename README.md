@@ -23,7 +23,7 @@
 
 <br />
 
-## UI Kit - **[Volt Dashboard PRO](https://docs.appseed.us/bootstrap-template/volt-dashboard-pro/)**
+## **[Volt Dashboard PRO](https://docs.appseed.us/bootstrap-template/volt-dashboard-pro/)**
 
 Volt Pro is a premium Bootstrap 5 Admin Dashboard featuring over 800 components, 20 example pages and 10 fully customized plugin written in Vanilla Javascript.
 
