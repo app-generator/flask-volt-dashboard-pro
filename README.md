@@ -6,6 +6,7 @@
 
 > Flask Dashboard Features
 
+- UI Kit: Volt Dashboard PRO (v1.2.0) by Themesberg
 - DBMS: SQLite, PostgreSQL (production) 
 - DB Tools: SQLAlchemy ORM, Alembic (schema migrations)
 - Modular design with **Blueprints**
