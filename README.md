@@ -18,9 +18,9 @@
 
 > Links
 
-- [Flask Dashboard Volt PRO](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro) - product page
-- [Flask Dashboard Volt PRO - Demo](https://flask-dashboard-volt-pro.appseed.us/) - LIVE deployment
-- [Flask Dashboard Volt PRO - Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-volt-pro/) - Product documentation
+- [Flask Volt PRO](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro) - product page
+- [Flask Volt PRO - Demo](https://flask-volt-pro.appseed-srv1.com/) - LIVE deployment
+- [Flask Volt PRO - Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-volt-pro/) - Product documentation
 
 <br />
 
