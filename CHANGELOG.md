@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.4] 2021-04-25
+### Improvements
+
+- Bump UI: Volt PRO v1.3.1
+- UI: [Jinja Volt PRO](https://github.com/app-generator/jinja-template-volt-pro/releases) v1.0.3
+
 ## [1.0.3] 2021-03-19
 ### Improvements
 
