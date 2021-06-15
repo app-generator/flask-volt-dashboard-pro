@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.6] 2021-06-15
+
+- Correct 404 Links - UI Docs 
+
 ## [1.0.5] 2021-05-16
 ### Dependencies Update
 
