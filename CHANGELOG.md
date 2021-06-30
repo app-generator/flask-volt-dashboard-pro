@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.8] 2021-06-30
+### Improvements 
+
+- Update UI - Volt PRO v1.4.1
+
 ## [1.0.7] 2021-06-26
 ### Tooling
 
