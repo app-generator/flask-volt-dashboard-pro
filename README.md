@@ -6,7 +6,7 @@
 
 > Flask Dashboard Features
 
-- Up-to-date dependencies: **Flask 2.0.1**
+- Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
 - [SCSS compilation](#recompile-css) via **Gulp**
 - UI Kit: **Volt Dashboard PRO** by **Themesberg**
 - DBMS: SQLite, PostgreSQL (production) 
@@ -23,6 +23,31 @@
 - [Flask Volt PRO](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro) - product page
 - [Flask Volt PRO](https://flask-volt-pro.appseed-srv1.com/) - LIVE deployment
 - [Flask Volt PRO](https://docs.appseed.us/products/flask-dashboards/volt-pro) - product documentation
+
+<br />
+
+## Quick Start in [Docker](https://www.docker.com/)
+
+> Get the code
+
+```bash
+$ git clone https://github.com/app-generator/priv-flask-dashboard-volt-pro.git
+$ cd priv-flask-dashboard-volt-pro
+```
+
+> Start the app in Docker
+
+```bash
+$ docker-compose pull   # download dependencies 
+$ docker-compose build  # local set up
+$ docker-compose up -d  # start the app 
+```
+
+Visit `http://localhost:85` in your browser. The app should be up & running.
+
+<br />
+
+![Flask Volt Bootstrap 5 PRO - Premium Seed Project crafted in Flask.](https://user-images.githubusercontent.com/51070104/141077513-5da6c218-de7b-4cea-8b0d-38be0a3eb9cb.png)
 
 <br />
 
@@ -176,30 +201,6 @@ The generated files (css, min.css) are saved in `static/assets/css` directory.
 ## Deployment
 
 The app is provided with a basic configuration to be executed in [Docker](https://www.docker.com/), [Heroku](https://www.heroku.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
-
-<br />
-
-### [Docker](https://www.docker.com/) execution
----
-
-The application can be easily executed in a docker container. The steps:
-
-> Get the code
-
-```bash
-$ git clone https://github.com/app-generator/priv-flask-dashboard-volt-pro.git
-$ cd priv-flask-dashboard-volt-pro
-```
-
-> Start the app in Docker
-
-```bash
-$ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose up -d
-```
-
-Visit `http://localhost:85` in your browser. The app should be up & running.
-
-<br />
 
 ### [Heroku](https://www.heroku.com/)
 ---
