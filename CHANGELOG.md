@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.10] 2022-02-17 
+### Fixes
+
+- Patch SCSS Compilation for:
+  - Nodejs `12.x`, `14.x`
+- Update CSS Assets:
+  - Compiled with `Node v14.15.0`, `Gulp CLI version: 2.3.0`   
+
 ## Unreleased
 ### Fixes
 

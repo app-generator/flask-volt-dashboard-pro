@@ -6,7 +6,7 @@
 
 > Flask Dashboard Features
 
-- Up-to-date dependencies: **Flask 2.0.1**
+- Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
 - [SCSS compilation](#recompile-css) via **Gulp**
 - UI Kit: **Volt Dashboard PRO** by **Themesberg**
 - DBMS: SQLite, PostgreSQL (production) 
@@ -156,6 +156,15 @@ The project is coded using blueprints, app factory pattern, dual configuration p
 <br />
 
 ## Recompile CSS
+
+> ENV Tests 
+
+| NodeJS | NPM | YARN | Gulp | Status | 
+| --- | --- | --- | --- | 
+| `v14.15.0` | `v6.14.8`  | `v1.22.5` | `CLI version: 2.3.0` | ✔️ |
+| `v12.22.0` | `v6.14.11` | `v1.22.5` | `CLI version: 2.3.0` | ✔️ |
+
+<br />
 
 To recompile SCSS files, follow this setup:
 
