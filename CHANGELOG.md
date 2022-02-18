@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.11] 2022-02-18 
+### Fixes
+
+- Update to `WTForms-3.0.0`
+
 ## [1.0.10] 2022-02-17 
 ### Fixes
 
