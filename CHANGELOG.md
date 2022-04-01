@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.12] 2022-04-01
+### Fixes
+
+- Patch #4 - `ImportError: cannot import name 'safe_str_cmp' from 'werkzeug.security'`
+  - `Werkzeug` deprecation of `safe_str_cmp` starting with version `2.1.0`
+    - https://github.com/pallets/werkzeug/issues/2359
+
 ## [1.0.11] 2022-02-18 
 ### Fixes
 
