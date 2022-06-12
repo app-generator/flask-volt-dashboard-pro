@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.13] 202-06-12
+### Improvements
+
+- Built with [Volt Dashboard Generator](https://appseed.us/generator/volt-dashboard-pro/)
+  - Timestamp: `2022-06-12 20:20`
+- Improved `Docker` Script
+- Improved Static Assets Management
+- Better Auth UX  
+
 ## [1.0.12] 2022-04-01
 ### Fixes
 
