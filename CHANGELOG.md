@@ -1,5 +1,20 @@
 # Change Log
 
+## [1.0.14] 2022-08-05
+### Improvements
+
+- Authentication
+  - Force strong passwords during registration
+  - Suspend user after 3 failed login attempts
+- Extended User profile
+  - Persistent User Info
+  - Change password
+  - Self Account Deletion
+- Admin ROLE
+  - Creatio via CLI
+  - Manages all users 
+- Improved Docker Scripts  
+
 ## [1.0.13] 202-06-12
 ### Improvements
 
