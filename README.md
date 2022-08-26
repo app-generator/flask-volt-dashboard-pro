@@ -6,6 +6,8 @@ Flask Dashboard coded with basic modules, database, ORM and deployment scripts o
 - 👉 [Volt Dashboard PRO Flask](https://flask-volt-dashboard-enh.appseed-srv1.com/) - LIVE Demo
 - 👉 [Complete documentation](https://docs.appseed.us/products/flask-dashboards/volt-pro) - `Learn how to use and update the product`
 
+<br />
+
 > Features 
 
 - `Up-to-date dependencies`, active versioning
@@ -79,7 +81,7 @@ The meaning of each variable can be found below:
 - `SOCIAL AUTH` TWITTER (optional)
   - `TWITTER_ID`=YOUR_GITHUB_ID
   - `TWITTER_SECRET`=YOUR_GITHUB_SECRET 
-  
+
 <br />
 
 ## ✨ Set up the MySql Database
