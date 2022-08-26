@@ -1,5 +1,23 @@
 # Change Log
 
+## [1.0.16] 2022-08-26
+### Fixes
+
+- Fix Docker Set Up
+- Minor UI/UX changes
+
+## [1.0.15] 2022-08-25
+### Improvements
+
+- Auth:
+  - OAuth - Warn the user to provide an email
+  - Session-Based login is possible user OR Email
+  - Remove `old password` input for `change pass` option
+- User profile   
+  - Improved UX
+  - Added `API Explorer` component
+  - List the `API_KEY` (required in API usage)
+
 ## [1.0.14] 2022-08-05
 ### Improvements
 
@@ -15,7 +33,7 @@
   - Manages all users 
 - Improved Docker Scripts  
 
-## [1.0.13] 202-06-12
+## [1.0.13] 2022-06-12
 ### Improvements
 
 - Built with [Volt Dashboard Generator](https://appseed.us/generator/volt-dashboard-pro/)
